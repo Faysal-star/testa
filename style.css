@@ -1,0 +1,41 @@
+.hula {
+  border: 2px solid green;
+  border-radius: 20px;
+  margin: 1%;
+  width: 30%;
+  display: inline-block;
+  float: left;
+}
+.hula h1 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+.sec1{
+  position: fixed;
+}
+.sec{
+  position: relative;
+  top: 300px;
+  background-color: aqua;
+}
+ 
+#fs1{
+  background-color: blue; height: 100px;
+  width: 100px;
+}
+#fs2{
+  background-color: pink;
+  position: relative;
+  top: -gddg100px;
+  left: 100px; height: 100px;
+  width: 100px;
+}
+
+#fs3{
+  background-color: greenyellow; height: 100px;
+  width: 100px;
+}
+
